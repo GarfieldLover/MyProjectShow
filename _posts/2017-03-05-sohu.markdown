@@ -1,0 +1,27 @@
+---
+layout: post
+title: 搜狐视频
+date: 2017-03-05 15:22:38.000000000 +09:00
+---
+`14th Feb 2016`
+![](http://is1.mzstatic.com/image/thumb/Purple111/v4/7c/1b/07/7c1b0793-79b9-5754-f986-e311da7f685d/source/175x175bb.jpg)
+
+<center>
+<h1>
+<a href="https://itunes.apple.com/cn/app/%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91/id458587755?l=en&mt=8" class="fa fa-apple"></a>
+</h1>
+</center>
+
+`搜狐视频`是中国第一家以正版高清长视频为显著优势的综合视频网站，在国内首先实现了用户匿名UGC上传功能。自主研发的RC模块及CDN调度优化技术处于国际领先地位，并攻克多项技术难题。
+* 完美适配机型;为高端移动设备用户量身打造，操作界面友好，支持多手势操作。
+* 影视资源丰富;为用户提供热播电影、电视剧、动漫、综艺、纪录片、搜狐原创等海量视频。
+* 更快、更流畅、更高清安装包小、CPU占用小、启动速度快，支持高清、超清、3D等模式。
+* 支持离线观看、播放记录云同步、高清视频下载、最热大片PUSH，为您打造一流移动影院。
+
+我在项目中主要负责游戏框架架构及分工，并进行了逻辑部分的代码编写，并在开发过程中对组内其他Unity工程师提供技术支援和一定的指导。
+
+<center>
+<div class="github-card" data-user="GarfieldLover" data-repo="GLNavigationArchitectureSet" data-width=100% data-height="177"></div>
+</center>
+
+
