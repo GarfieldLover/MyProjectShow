@@ -4,7 +4,8 @@ title: 搜狐视频
 date: 2017-03-05 15:22:38.000000000 +09:00
 ---
 `14th Feb 2016`
-![](http://is1.mzstatic.com/image/thumb/Purple111/v4/7c/1b/07/7c1b0793-79b9-5754-f986-e311da7f685d/source/175x175bb.jpg)
+
+![](assets/images/sohulogo.png)
 
 <center>
 <h1>

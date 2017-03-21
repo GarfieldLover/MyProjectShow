@@ -5,8 +5,9 @@ date: 2016-02-14 16:22:38.000000000 +09:00
 ---
 `13th Feb 2016`
 
-![]()
+![](assets/images/link-winSFA.png)
 
+![](assets/images/sfacontent.png)
 
 `winSFA-移动销售管理平台`基于KPI导向的消费品行业移动销售管理平台
 * 规范销售执行流程，全面提升工作效率

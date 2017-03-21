@@ -1,21 +1,29 @@
 ---
 layout: post
-title: About JekyllScroll
+title: 500彩票
 date: 2016-02-14 16:22:38.000000000 +09:00
 ---
 `13th Feb 2016`
 
+![](assets/images/500.png)
+
 <center>
 <h1>
-<a href="https://github.com/onevcat/JekyllScroll" class="fa fa-github"></a>
+<a href="https://itunes.apple.com/cn/app/500%E5%BD%A9%E7%A5%A8-%E4%BD%93%E5%BD%A9%E7%8E%A9%E5%AE%B6%E7%9A%84%E4%B8%BB%E5%9C%BA/id432486451?l=en&mt=8" class="fa fa-apple"></a>
 </h1>
 </center>
 
-`JekyllScroll` 是一个为 [Jekyll](http://jekyllrb.com) 设计的主题。这个主题原来是
-[Yonatan](http://grmmph.com/) 为 Ghost 所设计的 [GhostScroll](http://ghostscroll.grmmph.com)。
-因为我偏爱静态网站，因此我将这个主题移植到了 Jekyll 上来。
+`500彩票`客户端为广大彩民提供专业便捷的移动购彩服务，同时还为您提供比分直播，彩票资讯，彩票开奖，彩票走势图，彩票社区等彩票周边功能，为您打造一站式移动购彩体验。
+【产品功能】
+ ①丰富的体彩玩法，想玩什么就玩什么。
+ ②最全的开奖结果，福彩、体彩我们全包了。
+ ③精准的彩票资讯，专家预测冷门推荐。
+ ④即时的比分直播，随时随地了解最新战况。
+⑤有趣的彩票社区，红单黑单，晒出精彩。
+ ⑥专业的走势图表，豹子遗漏一目了然。
+⑦全面的赛事数据，足球篮球全都有。
+ ③ 5300万注册用户的选择，801个100万大奖，60个500万大奖！累计中奖金额超100亿大关！
 
-`JekyllScroll` is a theme for [Jekyll](http://jekyllrb.com). This theme is 
-originally designed by [Yonatan](http://grmmph.com/) and named as 
-[GhostScroll](http://ghostscroll.grmmph.com) for Ghost. I ported it to Jekyll since 
-I prefer to static site.
+我在项目中主要负责游戏框架架构及分工，并进行了逻辑部分的代码编写，并在开发过程中对组内其他Unity工程师提供技术支援和一定的指导。
+
+

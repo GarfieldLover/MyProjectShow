@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contact me
+title: 联系我
 date: 2016-02-13 02:34:03.000000000 +08:00
 ---
 
@@ -8,7 +8,7 @@ date: 2016-02-13 02:34:03.000000000 +08:00
 
 我是张科 偶尔也会在自己的[博客]上写点东西，想找我的话可以给我发邮件。我还有一些不值一提的开源项目放在 GitHub 上，您有兴趣的话也可以在我的页面找到它们。要是我的文章和这些项目能对您有所帮助的话，我会非常开心。
 
-<div class="github-card" data-user="onevcat" data-width=100% data-height=""></div>
+<div class="github-card" data-user="GarfieldLover" data-width=100% data-height=""></div>
 
 <center>
 
